@@ -3,6 +3,8 @@ stackexchange-badge-ranker
 
 Rank yourself on all your badges! (ex. you were the 100th to get some badge)
 
+Does not work on tag badges (yet). :(
+
 Sample output (me! on Stack Overflow):
 
     [G] Marshal           609
